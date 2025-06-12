@@ -1,2 +1,2 @@
 # Work-log
-This is a project designed to document what I do every day
+this is a project aimed to record what i do ereryday
